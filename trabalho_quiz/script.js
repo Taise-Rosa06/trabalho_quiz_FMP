@@ -60,7 +60,7 @@ const questions = [
         ],
     },
     {
-        question: "Quantos laboratórios tem na faculdade?",
+        question: "Quantos laboratórios a faculdade possui?",
         answers: [
             { id: 1, text: "3", correct:false},
             { id: 2, text: "4", correct:false},
@@ -180,7 +180,7 @@ const questions = [
         ],
     },
     {
-        question: "Quem é o/a professor/a responsável pelo programa de pesquisa 'ilab' da FMP?",
+        question: "Quem é o/a professor/a responsável pelo programa de pesquisa 'ILAB' da FMP?",
         answers: [
             { id: 1, text: "Prof. Clodomir Coradini", correct:false},
             { id: 2, text: "Profª Daniela Amorim ", correct:true},
@@ -224,7 +224,7 @@ const questions = [
         answers: [
             { id: 1, text: "07h às 12h e 13h ás 19h", correct:false},
             { id: 2, text: "08h às 12h e 14h às 20h", correct:false},
-            { id: 3, text: "07h às 13h e 13h às 21h", correct:true},
+            { id: 3, text: "07h às 12h e 13h às 21h", correct:true},
             { id: 4, text: "08h às 13h e 14h às 20:30h", correct:false},
 
         ],
